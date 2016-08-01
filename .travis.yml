@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: MaBjh8Fg2PZOotMb/oee/CEmBPk0P57Pc9QGwbjhzZKZrO2Py+yDIowYBPxKkyYjOV4O0+bEOhfMPzHNjTTlh4QVSg9vLNbfnGLe/m40BUfE9hD1JqY7koLsR+jnZ/rL/VP/jOmKObPUNgTIgs2izvhJG+OFizNyof6nJJLGAzfRB3z82z5WqpFNcViZr3dFCWnCeSYwCyb2qbN74LlRtR/BROFCQu6aQN133Bh6vqB4p+AX0WKLf1DPDwKWPxuneM/AwxR1LYXhULHTgNy39dpJG9pFoLsfI/AvK7hKLjsLXcMfrJz5BgwJSa7QlfXc5ukcLP3FBRIOcAWMnjuO1SRtknuBjfF3NsOoblIScglwnq0yVXJGBkRE8ytYlS3CYzylI2knSD69bOXnfEZ3qdpCrXsUcxE6hgLhDsC0ziXNXf/oY7274qeMv1LihKC/IyO/eE4vl63NJf94ty6AhYDoOWRS0q08A7zROnZrkG9TTCAUO4E4X6p2/jN1VIwvmRGXvOqiVYrGX/FD+FRMR0wyJlP0YAiG7707L2FnoWcANFuQSZFmvXhHyz12+a/jmmPuz8wvPutBcY4des2uulKVSsR625An3viscPctAsuKTcJJotjjPr1edJF/D2ST+jtyr4YJaq1zqFZjI/q8p2sWENsN+trhzr6x3OyMOiY=
+  app: mongo-shopping-list
+  on:
+    repo: auldsy-ababua/mongo-shopping-list
